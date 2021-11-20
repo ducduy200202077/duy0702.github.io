@@ -187,6 +187,9 @@ display: none;
     margin-bottom: 50px;
     height: auto;
 }
+    .recent-video__header-title{
+    width:200px;
+    }
 .watching {
     top :80%;
     width: 100%;
